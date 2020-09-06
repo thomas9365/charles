@@ -1,0 +1,10 @@
+list functions:
+'getattribute', 'getitem', 'gt', 'hash', 'iadd', 'imul', 'init', 'init_subclass', 'iter','len', 'lt', 'mul','new', 'reduce','reversed','setattr', 'setitem', 'sizeof', 'str', 'subclasshook_', 'append','copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+dictionary functions:
+'contains', 'delattr', 'delitem', 'dir', 'doc', 'eq', 'format', 'ge', 'getattribute', 'hash', 'init', 'init_subclass', 'iter','len', 'new', 'reduce','reversed', 'setattr', 'setitem', 'sizeof', 'str','clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+set functions:
+'contains', 'delattr', 'dir', 'doc', 'eq', 'format', 'getattribute', 'hash', 'iand', 'init', 'isub', 'len', 'new', 'or', 'rand', 'reduce', 'repr', 'ror', 'rsub', 'rxor', 'setattr', 'sizeof', 'str', 'sub', 'subclasshook', 'add', 'clear', 'copy', 'difference', 'discard', 'intersection', 'intersection_update', 'isdisjoint', 'issubset', 'issuperset', 'pop', 'remove', 'symmetric_difference', 'symmetric_difference_update', 'union', 'update'
+tuple functions:
+'contains', 'delattr', 'dir', 'doc', 'eq', 'format','getattribute', 'getitem', 'getnewargs', 'gt', 'hash', 'init', 'init_subclass', 'iter', 'len', 'mul', 'new', 'reduce', 'repr', 'rmul', 'setattr', 'sizeof', 'str', 'count', 'index'
+str funstions:
+['_add', 'class', 'contains', 'delattr', 'dir', 'doc', 'eq', 'format', 'ge', 'getattribute', 'getitem', 'getnewargs', 'gt', 'hash', 'init', 'init_subclass', 'iter', 'le', 'len', 'lt', 'mod', 'mul', 'ne', 'new', 'reduce', 'reduce_ex', 'repr', 'rmod', 'rmul', 'setattr', 'sizeof', 'str', 'subclasshook_', 'capitalize', 'casefold', 'center', 'count', 'encode', 'endswith', 'expandtabs', 'find', 'format', 'format_map', 'index', 'isalnum', 'isalpha', 'isascii', 'isdecimal', 'isdigit', 'isidentifier', 'islower', 'isnumeric', 'isprintable', 'isspace', 'istitle', 'isupper', 'join', 'ljust', 'lower', 'lstrip', 'maketrans', 'partition', 'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit', 'rstrip', 'split', 'splitlines', 'startswith', 'strip', 'swapcase', 'title', 'translate', 'upper', 'zfill']
